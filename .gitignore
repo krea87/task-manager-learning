@@ -1,0 +1,16 @@
+# IDE files
+*.idea/
+*.iml
+
+# Maven files
+*.jar
+*.war
+*.ear
+
+# Database files
+*.db
+*.sql
+
+# OS files
+.DS_Store
+Thumbs.db
